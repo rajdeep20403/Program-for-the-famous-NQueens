@@ -1,4 +1,4 @@
-Java Program for placing 2 queens in n*n chess board safely
+Java Program for placing n queens in n*n chess board safely
 
 import java.util.*;
 public class nqueens           
